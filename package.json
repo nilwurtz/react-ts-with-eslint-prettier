@@ -1,7 +1,7 @@
 {
-  "name": "react-ts-min",
+  "name": "react-ts-with-eslint-prettier",
   "version": "0.1.0",
-  "description": "React + Typescript minimum template",
+  "description": "React + Typescript + eslint + prettier template",
   "main": "src/index.tsx",
   "scripts": {
     "build": "npm run typecheck && webpack --mode production",
